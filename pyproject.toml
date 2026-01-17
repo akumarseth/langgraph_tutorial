@@ -1,0 +1,20 @@
+[project]
+name = "langraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncpg>=0.30.0",
+    "dotenv>=0.9.9",
+    "fastapi>=0.117.1",
+    "ipykernel>=7.1.0",
+    "langchain>=0.3.27",
+    "langchain-openai>=0.3.35",
+    "langgraph>=0.6.6",
+    "langsmith>=0.4.21",
+    "pandas>=2.3.3",
+    "pydantic>=2.11.7",
+    "sqlparse>=0.5.3",
+    "uvicorn>=0.36.0",
+]

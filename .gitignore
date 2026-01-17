@@ -1,0 +1,13 @@
+text2sql_pg/
+.env
+text2sql.py
+.venv/
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
